@@ -1,5 +1,4 @@
 const input = require('readline-sync');
-let info = input.question("What's your name? ");
 
 // TODO 2: modify your quiz app to ask 5 questions //
 
